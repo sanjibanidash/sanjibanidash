@@ -26,7 +26,7 @@
 
 ## A little about me
 
-I’m Sanjibani—a learner who likes understanding what happens *behind* an AI application, not just seeing a demo work.
+I’m Sanjibani, a learner who likes understanding what happens *behind* an AI application, not just seeing a demo work.
 
 My path started with small Python problems and grew into data analysis, machine learning, deep learning, and now Generative AI and agentic workflows. I’m interested in the connections between these stages: how data becomes a model, how a model becomes an application, and how an application can use relevant information and tools responsibly.
 
@@ -35,27 +35,29 @@ My path started with small Python problems and grew into data analysis, machine 
 - 🛠️ **Learning by doing:** APIs, evaluation, experiment tracking, monitoring, and documentation.
 - 🌱 **My learning rule:** if I can’t explain why a component is there, I have more to learn.
 
-I’m still growing, and this profile is a record of that process—not a claim to have mastered every tool listed here.
+I’m still growing, and this profile is a record of that process, not a claim to have mastered every tool listed here.
 
 ## The journey I'm building, one layer at a time
 
 I’ve arranged the journey from the area I’m most curious about now back to the fundamentals that support it.
 
-### 01 · Agentic AI — helping applications take the next step
+### 01 · Agentic AI : helping applications take the next step
 
 An agentic workflow can break a task into smaller steps, use tools, inspect results, and decide what to do next. I’m exploring how to make those workflows useful without treating the model as infallible.
 
 **Exploring:** LangGraph concepts, tool use, stateful workflows, conditional routing, human approval, and failure handling.
 
-### 02 · Generative AI — giving language models useful context
+**Related projects:** [MarketLens-AI](https://github.com/sanjibanidash/MarketLens-AI)
+
+### 02 · Generative AI : giving language models useful context
 
 LLMs are powerful, but a good application needs more than a clever prompt. RAG connects a model to relevant information, while evaluation helps us test whether the retrieved context and final answer are actually useful.
 
 **Exploring:** prompt design, structured output, embeddings, semantic search, chunking, retrieval, grounded answers, latency, and cost.
 
-**Related projects:** [GenAI Learning Practicals](https://github.com/sanjibanidash/genai-learning-practicals) · [MarketLens-AI](https://github.com/sanjibanidash/MarketLens-AI)
+**Related projects:** [GenAI Learning Practicals](https://github.com/sanjibanidash/genai-learning-practicals) 
 
-### 03 · Deep Learning — learning patterns in data
+### 03 · Deep Learning : learning patterns in data
 
 Neural networks helped me explore how different architectures suit different kinds of information.
 
@@ -66,7 +68,7 @@ Neural networks helped me explore how different architectures suit different kin
 
 **Related project:** [T5 Text Summarizer with FastAPI](https://github.com/sanjibanidash/t5-text-summarizer-fastapi) · [Browse my deep learning repositories](https://github.com/sanjibanidash?tab=repositories)
 
-### 04 · Machine Learning & MLOps — making experiments dependable
+### 04 · Machine Learning & MLOps : making experiments dependable
 
 Training a model is only one part of the job. I’m learning to compare against baselines, choose useful metrics, inspect errors, track experiments, and monitor what happens after training.
 
@@ -74,7 +76,7 @@ Training a model is only one part of the job. I’m learning to compare against 
 
 **Related projects:** [Electricity Forecasting MLOps](https://github.com/sanjibanidash/electricity-forecasting-mlops) · [Predictive Maintenance MLOps](https://github.com/sanjibanidash/predictive-maintenance-mlops)
 
-### 05 · Python — the foundation underneath everything
+### 05 · Python : the foundation underneath everything
 
 Before frameworks and models, there’s the habit of breaking a problem down and writing a clear solution. I keep strengthening Python fundamentals because they make every later layer easier to understand.
 
