@@ -28,12 +28,7 @@
 
 I’m Sanjibani, a learner who likes understanding what happens *behind* an AI application, not just seeing a demo work.
 
-My path started with small Python problems and grew into data analysis, machine learning, deep learning, and now Generative AI and agentic workflows. 
-
-I’m interested in the connections between these stages: 
-- How data becomes a model
-- How a model becomes an application
-- How an application can use relevant information and tools responsibly
+My path started with small Python problems and grew into data analysis, machine learning, deep learning, and now Generative AI and agentic workflows. I’m interested in the connections between these stages: how data becomes a model, how a model becomes an application, and how an application can use relevant information and tools responsibly.
 
 - 🔎 **Currently curious about:** RAG, embeddings, retrieval quality, and how to keep LLM answers grounded.
 - 🧩 **Building toward:** multi-step AI workflows with LangChain and LangGraph.
