@@ -4,7 +4,7 @@
 
 ### From Python Foundations to Generative AI & Agentic Systems
 
-I’m learning to build AI systems step by step—from writing my first Python programs to exploring machine learning, deep learning, LLM applications, retrieval, and agentic workflows.
+I’m learning to build AI systems step by step from writing my first Python programs to exploring machine learning, deep learning, LLM applications, retrieval, and agentic workflows.
 
 <p>
   <a href="https://github.com/sanjibanidash">
@@ -26,9 +26,9 @@ I’m learning to build AI systems step by step—from writing my first Python p
 
 I see AI engineering as a journey of connected ideas. Every stage builds on the one before it: first learning to write instructions, then learning from data, then working with language models, and finally exploring systems that can plan and use tools.
 
-The sections below are arranged from my **current area of focus back to the foundations**—so you can see where the journey is heading and what it is built on.
+The sections below are arranged from my **current area of focus back to the foundations** so you can see where the journey is heading and what it is built on.
 
-## 01 · Agentic AI — From Answers to Actions
+## 01 · Agentic AI - From Answers to Actions
 
 The next step is learning how to build systems that can do more than respond to one prompt. Agentic AI workflows can break a task into steps, choose tools, use results, and decide what to do next—with appropriate limits and human oversight.
 
@@ -58,7 +58,7 @@ Before building agents, I’m learning how applications work with large language
 
 **The question I’m learning to answer:** How do we make an LLM application useful, grounded, and measurable?
 
-## 03 · Deep Learning — RNNs, CNNs, and Transformers
+## 03 · Deep Learning - RNNs, CNNs, and Transformers
 
 Deep learning introduced me to neural networks that learn patterns from data. Exploring different architectures helps me understand why the design of a model should match the type of problem.
 
@@ -74,7 +74,7 @@ Deep learning introduced me to neural networks that learn patterns from data. Ex
 
 **The question I’m learning to answer:** What patterns can a neural network learn, and how do I evaluate whether it learned them well?
 
-## 04 · Machine Learning & MLOps — From Experiments to Reliable Workflows
+## 04 · Machine Learning & MLOps - From Experiments to Reliable Workflows
 
 Machine learning helped me move from writing rules by hand to training models from data. Building projects also showed me that a model is only one part of the solution: data quality, evaluation, reproducibility, and monitoring matter too.
 
@@ -92,7 +92,7 @@ Machine learning helped me move from writing rules by hand to training models fr
 
 **The question I’m learning to answer:** Does the model solve the right problem, and can the workflow be trusted after the experiment ends?
 
-## 05 · Python Foundations — Where It Starts
+## 05 · Python Foundations - Where It Starts
 
 Everything begins with the basics: breaking a problem into smaller steps and turning those steps into code. Python is the foundation I use to explore data, build models, connect APIs, and develop AI applications.
 
