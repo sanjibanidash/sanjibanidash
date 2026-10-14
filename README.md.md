@@ -1,131 +1,105 @@
 <div align="center">
 
-# Sanjibani Dash 👋
+# Hey, welcome in! I'm Sanjibani 👋
 
-### From Python Foundations to Generative AI & Agentic Systems
+### I’m a curious builder on a journey from Python basics to AI that can reason, retrieve, and take action.
 
-I’m learning to build AI systems step by step from writing my first Python programs to exploring machine learning, deep learning, LLM applications, retrieval, and agentic workflows.
+<a href="https://github.com/sanjibanidash">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+</a>
+<a href="https://github.com/sanjibanidash?tab=repositories">
+  <img src="https://img.shields.io/badge/Step%20Inside-My%20Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
+</a>
+<a href="https://www.linkedin.com/in/sanjibani-dash-5794a336b/">
+  <img src="https://img.shields.io/badge/Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 
-<p>
-  <a href="https://github.com/sanjibanidash">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-  <a href="https://github.com/sanjibanidash?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore%20Projects-2EA44F?style=for-the-badge&logo=github&logoColor=white" alt="Projects">
-  </a>
-  <a href="https://www.linkedin.com/in/sanjibani-dash-5794a336b/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
+<br/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1700&color=58A6FF&center=true&vCenter=true&width=820&lines=I+like+knowing+what+happens+between+the+prompt+and+the+answer;Turning+curiosity+into+small%2C+testable+AI+projects;Learning+to+make+retrieval+useful%2C+not+just+possible;Tracing+an+AI+workflow+from+input+to+tool+to+result;Still+asking+why+before+adding+another+framework" alt="Rotating introduction">
+</a>
 
 </div>
 
 ---
 
-## My Learning Journey
+## A little about me
 
-I see AI engineering as a journey of connected ideas. Every stage builds on the one before it: first learning to write instructions, then learning from data, then working with language models, and finally exploring systems that can plan and use tools.
+I’m Sanjibani—a learner who likes understanding what happens *behind* an AI application, not just seeing a demo work.
 
-The sections below are arranged from my **current area of focus back to the foundations** so you can see where the journey is heading and what it is built on.
+My path started with small Python problems and grew into data analysis, machine learning, deep learning, and now Generative AI and agentic workflows. I’m interested in the connections between these stages: how data becomes a model, how a model becomes an application, and how an application can use relevant information and tools responsibly.
 
-## 01 · Agentic AI - From Answers to Actions
+- 🔎 **Currently curious about:** RAG, embeddings, retrieval quality, and how to keep LLM answers grounded.
+- 🧩 **Building toward:** multi-step AI workflows with LangChain and LangGraph.
+- 🛠️ **Learning by doing:** APIs, evaluation, experiment tracking, monitoring, and documentation.
+- 🌱 **My learning rule:** if I can’t explain why a component is there, I have more to learn.
 
-The next step is learning how to build systems that can do more than respond to one prompt. Agentic AI workflows can break a task into steps, choose tools, use results, and decide what to do next with appropriate limits and human oversight.
+I’m still growing, and this profile is a record of that process—not a claim to have mastered every tool listed here.
 
-**What I’m exploring**
-- Agent workflows and tool use
-- State, nodes, edges, and conditional routing with LangGraph
-- Orchestrating steps with LangChain
-- Human approval, failure handling, and tracing
-- Evaluating reliability instead of relying on impressive demos
+## The journey I'm building, one layer at a time
 
-**The question I’m learning to answer:** How can an AI application complete a multi-step task safely and reliably?
+I’ve arranged the journey from the area I’m most curious about now back to the fundamentals that support it.
 
-## 02 · Generative AI - Working with LLMs and RAG
+### 01 · Agentic AI — helping applications take the next step
 
-Before building agents, I’m learning how applications work with large language models (LLMs). Retrieval-Augmented Generation (RAG) adds relevant information to a model’s context so responses can be grounded in supplied sources.
+An agentic workflow can break a task into smaller steps, use tools, inspect results, and decide what to do next. I’m exploring how to make those workflows useful without treating the model as infallible.
 
-**What I’m exploring**
-- Prompt design and structured outputs
-- Embeddings and semantic search
-- RAG: chunking → embedding → retrieval → generation
-- Source-grounded answers and retrieval evaluation
-- Latency, token costs, security, and failure cases
+**Exploring:** LangGraph concepts, tool use, stateful workflows, conditional routing, human approval, and failure handling.
 
-**Projects**
-- [GenAI Learning Practicals](https://github.com/sanjibanidash/genai-learning-practicals)
-- [MarketLens-AI](https://github.com/sanjibanidash/MarketLens-AI)
+### 02 · Generative AI — giving language models useful context
 
-**The question I’m learning to answer:** How do we make an LLM application useful, grounded, and measurable?
+LLMs are powerful, but a good application needs more than a clever prompt. RAG connects a model to relevant information, while evaluation helps us test whether the retrieved context and final answer are actually useful.
 
-## 03 · Deep Learning - RNNs, CNNs, and Transformers
+**Exploring:** prompt design, structured output, embeddings, semantic search, chunking, retrieval, grounded answers, latency, and cost.
 
-Deep learning introduced me to neural networks that learn patterns from data. Exploring different architectures helps me understand why the design of a model should match the type of problem.
+**Related projects:** [GenAI Learning Practicals](https://github.com/sanjibanidash/genai-learning-practicals) · [MarketLens-AI](https://github.com/sanjibanidash/MarketLens-AI)
 
-- **RNNs:** learning patterns in sequences, such as text.
-- **CNNs:** learning spatial patterns in images.
-- **Transformers:** using attention to process relationships between tokens.
-- **T5:** exploring a text-to-text transformer for tasks such as summarization.
+### 03 · Deep Learning — learning patterns in data
 
-**Projects**
-- [RNN Sentiment Analysis](https://github.com/sanjibanidash?tab=repositories)
-- [CNN for CIFAR-10](https://github.com/sanjibanidash?tab=repositories)
-- [T5 Text Summarizer with FastAPI](https://github.com/sanjibanidash/t5-text-summarizer-fastapi)
+Neural networks helped me explore how different architectures suit different kinds of information.
 
-**The question I’m learning to answer:** What patterns can a neural network learn, and how do I evaluate whether it learned them well?
+- **RNNs:** sequence-based tasks, including text.
+- **CNNs:** spatial patterns in images.
+- **Transformers:** attention and relationships between tokens.
+- **T5:** text-to-text tasks such as summarization.
 
-## 04 · Machine Learning & MLOps - From Experiments to Reliable Workflows
+**Related project:** [T5 Text Summarizer with FastAPI](https://github.com/sanjibanidash/t5-text-summarizer-fastapi) · [Browse my deep learning repositories](https://github.com/sanjibanidash?tab=repositories)
 
-Machine learning helped me move from writing rules by hand to training models from data. Building projects also showed me that a model is only one part of the solution: data quality, evaluation, reproducibility, and monitoring matter too.
+### 04 · Machine Learning & MLOps — making experiments dependable
 
-**What I practice**
-- Data preparation, feature engineering, and exploratory analysis
-- Regression and classification
-- Baselines, metrics, error analysis, and model comparison
-- Experiment tracking and reproducible workflows with MLflow
-- Data drift, retraining decisions, and model monitoring
+Training a model is only one part of the job. I’m learning to compare against baselines, choose useful metrics, inspect errors, track experiments, and monitor what happens after training.
 
-**Projects**
-- [Electricity Forecasting MLOps](https://github.com/sanjibanidash/electricity-forecasting-mlops)
-- [Predictive Maintenance MLOps](https://github.com/sanjibanidash/predictive-maintenance-mlops)
-- [Hotel Booking and other ML projects](https://github.com/sanjibanidash?tab=repositories)
+**Exploring:** data preparation, feature engineering, regression and classification, MLflow, drift detection, retraining, and reproducibility.
 
-**The question I’m learning to answer:** Does the model solve the right problem, and can the workflow be trusted after the experiment ends?
+**Related projects:** [Electricity Forecasting MLOps](https://github.com/sanjibanidash/electricity-forecasting-mlops) · [Predictive Maintenance MLOps](https://github.com/sanjibanidash/predictive-maintenance-mlops)
 
-## 05 · Python Foundations - Where It Starts
+### 05 · Python — the foundation underneath everything
 
-Everything begins with the basics: breaking a problem into smaller steps and turning those steps into code. Python is the foundation I use to explore data, build models, connect APIs, and develop AI applications.
+Before frameworks and models, there’s the habit of breaking a problem down and writing a clear solution. I keep strengthening Python fundamentals because they make every later layer easier to understand.
 
-**Foundations I keep strengthening**
-- Variables, data types, conditions, and loops
-- Lists, dictionaries, functions, and modules
-- Debugging, exceptions, and writing readable code
-- Working with files and APIs
-- Practising problem-solving before reaching for a library
+**Practising:** variables, conditions, loops, collections, functions, debugging, files, APIs, and problem-solving.
 
-**Early practice**
-- [Python Learning](https://github.com/sanjibanidash/Python_Learning)
-
-**The question I keep coming back to:** Can I explain the problem clearly and write a simple solution before making it more complicated?
+**Early practice:** [Python Learning](https://github.com/sanjibanidash/Python_Learning)
 
 ---
 
-## The Journey at a Glance
+## How I picture the path
 
 ```mermaid
-flowchart TD
-    A["Python Foundations"] --> B["Machine Learning"]
-    B --> C["MLOps: Reliable ML Workflows"]
-    C --> D["Deep Learning: RNNs and CNNs"]
+flowchart BT
+    A["Python fundamentals"] --> B["Machine learning"]
+    B --> C["MLOps and reliable workflows"]
+    C --> D["Deep learning: RNNs and CNNs"]
     D --> E["Transformers and T5"]
     E --> F["Generative AI and RAG"]
-    F --> G["LangChain and LLM Applications"]
+    F --> G["LangChain and LLM applications"]
     G --> H["Agentic AI and LangGraph"]
 ```
 
-This is a learning path, not a claim that every topic is mastered or that every project uses every technology. I’m building understanding through experiments, documentation, and iteration.
+This is a learning map, not a claim that every topic is mastered or that every project uses every framework. I’m building understanding through experiments, documentation, and iteration.
 
-## Tools I’m Working With
+## The tools in my current learning toolkit
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
@@ -140,25 +114,25 @@ This is a learning path, not a claim that every topic is mastered or that every 
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
   <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit">
   <img src="https://img.shields.io/badge/MLflow-0194E2?style=for-the-badge&logo=mlflow&logoColor=white" alt="MLflow">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
 </p>
 
-## What Matters to Me
+## A few things I care about
 
-- **Understand before copying:** know what each component does and why it belongs.
-- **Evaluate, don’t assume:** use evidence to understand model and application quality.
-- **Build for failure:** consider missing data, poor retrieval, API errors, and unsupported answers.
-- **Document the journey:** make decisions, limitations, and lessons easy for someone else to follow.
+- **Grounding over guessing:** can the system point to relevant information?
+- **Evaluation over vibes:** how do we know the answer or model is good?
+- **Failure is part of design:** what happens when retrieval is empty or a tool fails?
+- **Clarity over complexity:** can I explain the architecture and the trade-offs?
+- **Progress over pretending:** document what works, what doesn’t, and what I learned.
 
-## Let's Connect
+## Say hello 👋
 
-I’m interested in learning from and collaborating with people working in **Generative AI, Agentic AI, RAG, machine learning, and AI application engineering**.
+If you’re exploring GenAI, RAG, agents, machine learning, or AI application engineering too, I’d be happy to connect and learn from each other.
 
 - **GitHub:** [sanjibanidash](https://github.com/sanjibanidash)
 - **LinkedIn:** [Connect with me](https://www.linkedin.com/in/sanjibani-dash-5794a336b/)
 
 <div align="center">
 
-*Start with the basics. Build with intention. Keep learning toward more capable AI systems.* 🚀
+*Still learning. Still curious. Always building the next layer.* 🚀
 
 </div>
