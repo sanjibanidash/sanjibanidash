@@ -30,7 +30,7 @@ The sections below are arranged from my **current area of focus back to the foun
 
 ## 01 · Agentic AI - From Answers to Actions
 
-The next step is learning how to build systems that can do more than respond to one prompt. Agentic AI workflows can break a task into steps, choose tools, use results, and decide what to do next—with appropriate limits and human oversight.
+The next step is learning how to build systems that can do more than respond to one prompt. Agentic AI workflows can break a task into steps, choose tools, use results, and decide what to do next with appropriate limits and human oversight.
 
 **What I’m exploring**
 - Agent workflows and tool use
