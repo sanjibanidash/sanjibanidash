@@ -41,7 +41,7 @@ The next step is learning how to build systems that can do more than respond to 
 
 **The question I’m learning to answer:** How can an AI application complete a multi-step task safely and reliably?
 
-## 02 · Generative AI — Working with LLMs and RAG
+## 02 · Generative AI - Working with LLMs and RAG
 
 Before building agents, I’m learning how applications work with large language models (LLMs). Retrieval-Augmented Generation (RAG) adds relevant information to a model’s context so responses can be grounded in supplied sources.
 
