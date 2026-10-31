@@ -48,7 +48,7 @@ An agentic workflow can break a task into smaller steps, use tools, inspect resu
 **Exploring:** LangGraph concepts, tool use, stateful workflows, conditional routing, human approval, and failure handling.
 
 **Related projects:** [MarketLens-AI](https://github.com/sanjibanidash/MarketLens-AI)
-                   ** [MultiAgent-ChatSystem](https://github.com/sanjibanidash/multi-agent-multimodal-chat-system).
+                    [MultiAgent-ChatSystem](https://github.com/sanjibanidash/multi-agent-multimodal-chat-system)
 
 ### 02 · Generative AI : giving language models useful context
 
